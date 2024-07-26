@@ -13,3 +13,5 @@
 https://tiume001.github.io/ReTe/
 ## My Web Games
 https://tiume001.github.io/web-games/sito_principale/
+## Nikez Shop
+https://tiumex.wordpress.com
