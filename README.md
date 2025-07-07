@@ -24,3 +24,5 @@ https://test01-dn4r.onrender.com
 https://tiume001.github.io/gym-tracker/
 ## University Notes
 https://tiume001.github.io/Notes/
+## Gym Tracker
+https://tiume001.github.io/gym-tracker/
