@@ -1,92 +1,81 @@
-# Hi there, I'm Mattia (Tiume001) 👋
+# 👨‍💻 Mattia Scarpa (Tiume001)
+
+> 🎓 Computer Science Student @ **Università Ca' Foscari Venezia**  
+> 🌐 Portfolio: [mattiascarpa.it](https://mattiascarpa.it/) | 🐙 GitHub: [github.com/Tiume001](https://github.com/Tiume001)
+
+---
+
+## ⚡ Global & Commit Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70E000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Network+%26+System+Enthusiast" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiume001&show_icons=true&theme=chartreuse_dark&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiume001&theme=chartreuse_dark&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://mattiascarpa.it/">
-    <img src="https://img.shields.io/badge/Portfolio-mattiascarpa.it-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Tiume001">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:info@mattiascarpa.it">
-    <img src="https://img.shields.io/badge/Contact-Email-388E3C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiume001&theme=chartreuse_dark&hide_border=true&area=true&custom_title=Full%20Year%20Contribution%20Trend" width="98%" alt="Contribution Trend Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiume001&theme=chartreuse_dark&no-frame=true&no-bg=true&margin-w=4" height="135" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## ⚡ Dynamic Stats & Overview
+## 📊 Comprehensive Language Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiume001&show_icons=true&theme=chartreuse_dark&hide_border=true&count_private=true" alt="Mattia's GitHub stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiume001&theme=chartreuse_dark&hide_border=true" alt="GitHub Streak" height="175" />
-</div>
+### 🔹 Most Used Languages (Overall Volume & Distribution)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiume001&theme=github-compact&color=70E000&line=70E000&point=FFFFFF&area=true&hide_border=true" alt="Commit Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiume001&layout=compact&theme=chartreuse_dark&hide_border=true&langs_count=10" height="200" alt="Top Languages Overview" />
+  <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" height="200" alt="Repos per Language" />
+</p>
+
+### 🔹 Languages by Activity & Density (Commits vs Codebase)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%" alt="Coding Hours & Frequency" />
+</p>
+
+### 🔹 Niche & Less Frequently Used Languages (Tail Stack)
+> Mostra le tecnologie di supporto, script secondari o linguaggi usati meno frequentemente nei repository (escludendo i 4 linguaggi dominanti).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiume001&layout=compact&theme=chartreuse_dark&hide_border=true&hide=html,javascript,css,typescript&langs_count=6" height="160" alt="Least Used / Secondary Languages" />
 </p>
 
 ---
 
-## 📊 Summary Cards & Language Analytics
+## 🕒 Recent Activity & Time-Tracking (WakaTime)
+
+<!-- START_SECTION:waka -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiume001&theme=chartreuse_dark&hide_border=true&layout=compact&langs_count=8&display_format=time" alt="Recently Used Languages" />
+</p>
+<!-- END_SECTION:waka -->
+
+---
+
+## 🗂️ Account Profile Deep-Dive
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" width="95%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="98%" alt="Full Profile Details" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats" width="48%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" width="48%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Tiume001/Tiume001/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="98%" alt="General Metrics Breakdown" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Deployments & Repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 🌐 Featured Websites & Projects
-
-| Progetto | Descrizione | Live Demo | Repository |
+| Progetto | Descrizione | Live Demo | Sorgente |
 | :--- | :--- | :---: | :---: |
-| 🎮 **Web Games Hub** | Piattaforma e raccolta di mini-giochi interattivi via browser | [Visita](https://tiume001.github.io/web-games/sito_principale/) | [Repo](https://github.com/Tiume001/web-games) |
-| 🏋️ **Gym Tracker** | Web app interattiva per monitorare carichi, schede e progressi in palestra | [Visita](https://tiume001.github.io/gym-tracker/) | [Repo](https://github.com/Tiume001/gym-tracker) |
-| 📚 **University Notes** | Hub documentale e appunti universitari consultabili online | [Visita](https://tiume001.github.io/Notes/) | [Repo](https://github.com/Tiume001/Notes) |
-| 🍷 **Natural Wines Menu** | Menu digitale per la selezione e consultazione di vini naturali | [PDF Menu](https://tiume001.github.io/NaturalWines/Vini-3.pdf) | [Repo](https://github.com/Tiume001/NaturalWines) |
-| 🛍️ **Nikez Shop** | Piattaforma e-commerce e vetrina online per shop | [Visita](https://tiumex.wordpress.com) | — |
-| 🌐 **Personal Cloud Site** | Applicazione web e ambiente di test ospitato su Render | [Visita](https://test01-dn4r.onrender.com) | — |
-
----
-
-<p align="center">
-  <sub>Configurato con temi coordinati su palette <code>chartreuse_dark</code> per mantenere piena coerenza con le metriche del profilo.</sub>
-</p>
+| 🕹️ **Web Games** | Arcade e minigiochi in JavaScript / Canvas | [Demo](https://tiume001.github.io/web-games/sito_principale/) | [Repo](https://github.com/Tiume001/web-games) |
+| 🏋️ **Gym Tracker** | Tracker per sessioni, esercizi e carichi | [Demo](https://tiume001.github.io/gym-tracker/) | [Repo](https://github.com/Tiume001/gym-tracker) |
+| 📚 **University Notes** | Appunti e dispense del corso di laurea | [Demo](https://tiume001.github.io/Notes/) | [Repo](https://github.com/Tiume001/Notes) |
+| 🍷 **Natural Wines** | Carta digitale per catalogo vini | [PDF](https://tiume001.github.io/NaturalWines/Vini-3.pdf) | [Repo](https://github.com/Tiume001/NaturalWines) |
+| 🛍️ **Nikez Shop** | Concept store su WordPress | [Link](https://tiumex.wordpress.com) | — |
+| ☁️ **Cloud App** | Node deployment su Render | [Link](https://test01-dn4r.onrender.com) | — |
